@@ -8,6 +8,8 @@ Recursive NetCDF Plotter with Custom Wind Speed Colorbar (Vertical)
 
 "hello"
 
+"hi"
+
 import os
 import xarray as xr
 import cartopy.crs as ccrs

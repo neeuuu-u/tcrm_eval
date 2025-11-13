@@ -6,6 +6,8 @@ Recursive NetCDF Plotter with Custom Wind Speed Colorbar (Vertical)
 - Saves PNGs with same folder structure
 """
 
+"hello"
+
 import os
 import xarray as xr
 import cartopy.crs as ccrs
